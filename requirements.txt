@@ -9,6 +9,4 @@ django-shop==0.0.13
 iniparse==0.3.1
 psycopg2==2.4.5
 pygpgme==0.1
-urlgrabber==3.9.1
 virtualenv==1.7.1.2
-yum-metadata-parser==1.1.2
