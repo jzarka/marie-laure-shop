@@ -1,0 +1,15 @@
+Django==1.4
+PIL==1.1.7
+South==0.7.5
+distribute==0.6.10
+dj-database-url==0.2.0
+django-classy-tags==0.3.4.1
+django-polymorphic==0.2
+django-shop==0.0.13
+iniparse==0.3.1
+psycopg2==2.4.5
+pycurl==7.19.0
+pygpgme==0.1
+urlgrabber==3.9.1
+virtualenv==1.7.1.2
+yum-metadata-parser==1.1.2

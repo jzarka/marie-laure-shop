@@ -1,0 +1,4 @@
+venv
+shop.heroku
+bin
+*.pyc
